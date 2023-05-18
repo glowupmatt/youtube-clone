@@ -34,7 +34,6 @@ const Feed = () => {
           Copyright 2022 OTGU Media
         </Typography>
       </Box>
-
       <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
         <Typography
           variant="h4"
